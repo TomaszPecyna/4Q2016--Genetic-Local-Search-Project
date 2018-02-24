@@ -1,4 +1,4 @@
-#Genetic Local Search
+Genetic Local Search
 
 School project for Combinatorics Optimization laboratories. The code outputs high quality solutions Job Shop Problem instances using Genetic Local search - mix of Genetic Algorithm and Local Search.
 
